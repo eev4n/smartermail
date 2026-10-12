@@ -1,4 +1,4 @@
-## original ppost: https://blog.evan.lat/posts/sm/
+## original post: https://blog.evan.lat/posts/sm/
 covers:
 
 https://nvd.nist.gov/vuln/detail/CVE-2026-104082
